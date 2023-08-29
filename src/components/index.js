@@ -5,3 +5,7 @@ export { default as Video } from "./Video"
 export { default as Channel } from "./Channel"
 export { default as SearchBar } from "./SearchBar"
 export { default as SideBar } from "./Sidebar"
+export { default as Videos } from "./Videos"
+export { default as VideoCard } from "./VideoCard"
+export { default as ChannelCard } from "./ChannelCard"
+export { default as Loader } from './Loader';
